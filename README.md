@@ -23,7 +23,7 @@ The Team Profile Generator is a node command line interface that allows a manage
 
 Picture of example HTML file:
 
-<img src ='' alt='Picture of example HTML file with team roster displayed'>
+<img src ='./images/teamprofilegenerator.PNG' alt='Picture of example HTML file with team roster displayed'>
 
 Click below to watch a video demonstration:
 
